@@ -1,7 +1,6 @@
 # code-refactor
 
-1. Description of the app -> take the assignment readme
+Media marketing website refactored
 
-2. Link to the deployed app
+Link to website https://jaliyl.github.io/code-refactor/
 
-3. Screenshot of the deployed app
